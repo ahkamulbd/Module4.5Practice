@@ -12,8 +12,12 @@ h1 {
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 43px;
 }
+
+/* h3 {
+    font-size: 27px;
+} */
 
 .blue-color {
     color: deepskyblue;
@@ -67,4 +71,20 @@ h2 {
 .second-part {
     background-image: url(images/frame3.jpg);
     background-repeat: no-repeat;
+}
+
+.recipie-upper {
+    text-align: center;
+    padding-left: 353px;
+    padding-right: 353px;
+    margin-bottom: 50px;
+}
+
+.our-recipies .recipie-bottom .half-width {
+    border: 30px solid whitesmoke;
+    border-radius: 20px;
+}
+
+.our-recipies .recipie-bottom .half-width img {
+    border: 20px;
 }
