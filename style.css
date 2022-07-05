@@ -7,6 +7,8 @@ body {
 
 h1 {
     font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .blue-color {
@@ -37,10 +39,16 @@ h1 {
     background-repeat: no-repeat;
 }
 
+.upper-content {
+    margin-top: 79px;
+}
+
 .click-button {
     text-decoration: none;
     background-image: linear-gradient(blue, green);
     padding: 10px 20px;
-    color: white;
+    color: red;
     border-radius: 15px;
+    font-size: 20px;
+    margin-top: 10px;
 }
