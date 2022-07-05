@@ -11,6 +11,10 @@ h1 {
     margin-bottom: 0;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .blue-color {
     color: deepskyblue;
 }
@@ -58,4 +62,9 @@ h1 {
     text-align: justify;
     margin-top: 30px;
     margin-bottom: 60px;
+}
+
+.second-part {
+    background-image: url(images/frame3.jpg);
+    background-repeat: no-repeat;
 }
